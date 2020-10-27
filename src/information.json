@@ -1,0 +1,17 @@
+{
+  "basics": {
+    "name": "DEVOPS JUMPSTART",
+    "label": "October 2020"
+  },
+  "participants": [
+    {
+      "firstname": "Kulkarni",
+      "lastname" : "Phanindra",
+      "position": "DevOps Trainer",
+      "level": "11",
+      "homeoffice": "Hyderabad",
+      "university": "XYZ University",
+      "birthday": "2001-10-19"
+    }
+  ]
+}
